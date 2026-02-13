@@ -119,7 +119,7 @@ Aprofundar conhecimentos em:
 
 <div>
 
-  <a href="malito:eduardo.serafim.dev@gmail.com">
+  <a href="mailto:eduardo.serafim.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
