@@ -10,7 +10,6 @@ Tenho 19 anos e sou natural de Formosa-GO. Concluí o Ensino Médio no [Institut
 
 ## 🤖 Linguagens e Tecnologias
 
----
 
 <img 
     align="left" 
