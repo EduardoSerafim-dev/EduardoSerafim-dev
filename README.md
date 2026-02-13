@@ -1,16 +1,127 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:1f6feb&height=120&section=header"/>
 
-<!--
-**EduardoSerafim-dev/EduardoSerafim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨🏻‍💻 Olá, sou o Eduardo Serafim! 👋
 
-Here are some ideas to get you started:
+**`Desenvolvedor de Software`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho 19 anos e sou natural de Formosa-GO. Concluí o Ensino Médio no [Instituto Federal de Goiás - Câmpus Formosa](https://www.ifg.edu.br/formosa) e atualmente estou cursando Tecnologia Em Análise e Desenvolvimento de Sistemas no mesmo instituto. Aqui compartilho meus projetos, tanto acadêmicos quanto pessoais.
+
+---
+
+## 🤖 Linguagens e Tecnologias
+
+---
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Postgre SQL" 
+    title="Postgre SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Arduino" 
+    title="Arduino"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+## 📊  Contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=EduardoSerafim-dev&theme=blue-green&locale=pt_BR"/>
+</p>
+
+---
+
+## 🛠 Projetos em Destaque
+
+- 🌐 API REST com Spring Boot  
+- 📋 Sistema Web - E-commerce com HTML, CSS, JavaScript e Bootstrap  
+- 🤖 Projetos com Arduino
+- 🍿CRUD de Sistema de Cinema com Java
+- 🐍 Sistema básico de funcionalidades lógicas com Python
+
+---
+
+## 🎯 Objetivo Atual
+
+Aprofundar conhecimentos em:
+- Arquitetura de Software
+- APIs REST
+- Backend com Java
+
+---
+
+## 📫 Contato
+
+📧 eduardo.serafim.dev@gmail.com  
+💼 LinkedIn: linkedin.com/in/seu-link  
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:1f6feb&height=120&section=footer"/>
