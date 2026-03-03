@@ -68,6 +68,14 @@ Tenho 19 anos e sou natural de Formosa-GO. Concluí o Ensino Médio no [Institut
 />
 <img 
     align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Postgre SQL" 
     title="Postgre SQL"
     width="30px" 
