@@ -129,7 +129,7 @@ Tenho 20 anos e sou natural de Formosa-GO. Concluí o Ensino Médio no [Institut
 ---
 ## 🛠 Projetos em Destaque
 
-- 📡 [Projeto de API REST e Backend Completo - Sistema de Trocas com Spring Boot, PostgreSQL, MongoDB, Docker e emprego de Design Patterns](https://github.com/EduardoSerafim-dev/Cadastro-Usuario)  
+- 📡 [Projeto de API REST e Backend Completo - Sistema de Trocas com Spring Boot, PostgreSQL, MongoDB, Docker e emprego de Design Patterns](https://github.com/EduardoSerafim-dev/arq_proj_2026)  
 - 🎞️ [Projeto Full-Stack Completo - Sistema de indexação de filmes com Laravel, PHP, Nginx e PostgreSQL](https://github.com/EduardoSerafim-dev/ppw-2)
 - 🌐 [API REST com Spring Boot - Cadastro de Usuários](https://github.com/EduardoSerafim-dev/Cadastro-Usuario)  
 - 🛒 [Sistema Web - E-commerce com HTML, CSS, JavaScript e Bootstrap](https://github.com/EduardoSerafim-dev/meu-ecommerce)  
