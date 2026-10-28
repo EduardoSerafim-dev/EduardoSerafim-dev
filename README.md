@@ -127,14 +127,13 @@ Tenho 20 anos e sou natural de Formosa-GO. Concluí o Ensino Médio no [Institut
 </p>
 
 ---
-[Instituto Federal de Goiás - Câmpus Formosa](https://www.ifg.edu.br/formosa)
 ## 🛠 Projetos em Destaque
 
 - 🎞️ [Projeto Full-Stack Completo - Sistema de indexação de filmes com Laravel, PHP, Nginx e PostgreSQL](https://github.com/EduardoSerafim-dev/ppw-2)
 - 🌐 [API REST com Spring Boot](https://github.com/EduardoSerafim-dev/Cadastro-Usuario)  
-- 📋 Sistema Web - E-commerce com HTML, CSS, JavaScript e Bootstrap  
+- 📋 [Sistema Web - E-commerce com HTML, CSS, JavaScript e Bootstrap](https://github.com/EduardoSerafim-dev/meu-ecommerce)  
 - 🤖 Projetos com Arduino
-- 🍿CRUD de Sistema de Cinema com Java
+- 🍿[CRUD de Sistema de Cinema com Java](https://github.com/EduardoSerafim-dev/Cinema)
 - 🐍 [Sistema básico de funcionalidades lógicas com Python](https://github.com/EduardoSerafim-dev/Software_Python)
 ---
 
