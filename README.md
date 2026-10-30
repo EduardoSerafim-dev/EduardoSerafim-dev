@@ -127,6 +127,9 @@ Tenho 20 anos e sou natural de Formosa-GO. Concluí o Ensino Médio no [Institut
 </p>
 
 ---
+## 📋 Conheça meu Portfólio
+
+---
 ## 🛠 Projetos em Destaque
 
 - 📡 [Projeto de API REST e Backend Completo - Sistema de Trocas com Spring Boot, PostgreSQL, MongoDB, Docker e emprego de Design Patterns](https://github.com/EduardoSerafim-dev/arq_proj_2026)  
@@ -138,6 +141,11 @@ Tenho 20 anos e sou natural de Formosa-GO. Concluí o Ensino Médio no [Institut
 - 🐍 [Sistema básico de funcionalidades lógicas com Python](https://github.com/EduardoSerafim-dev/Software_Python)
 ---
 
+## 🛠 Projetos com IA
+
+
+
+---
 ## 🎯 Objetivo Atual
 
 Aprofundar conhecimentos em:
