@@ -1,178 +1,60 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:1f6feb&height=120&section=header"/>
-
-# 👨🏻‍💻 Olá, sou o Eduardo Serafim! 👋
-
-**`Desenvolvedor de Software`**
-
-Tenho 20 anos e sou natural de Formosa-GO. Concluí o Ensino Médio no [Instituto Federal de Goiás - Câmpus Formosa](https://www.ifg.edu.br/formosa) e atualmente estou cursando Tecnologia Em Análise e Desenvolvimento de Sistemas no mesmo instituto. Aqui compartilho meus projetos, tanto acadêmicos quanto pessoais.
-
----
-
-## 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring Boot" 
-    title="Spring Boot"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Postgre SQL" 
-    title="Postgre SQL"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Arduino" 
-    title="Arduino"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
-/>
-
-<br/>
-<br/>
-
----
-
-## 📊  Contribuições
+<h1 align="center">Eduardo Serafim</h1>
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas (IFG) · Backend Java<br>
+  📍 Formosa, GO · 🔎 Buscando oportunidade de estágio em desenvolvimento backend
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=EduardoSerafim-dev&theme=blue-green&locale=pt_BR"/>
+  <a href="https://linkedin.com/in/eduardo-serafim-de-oliveira-3569313b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:[SEU-EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
-## 📋 Conheça meu Portfólio
+
+## 👋 Sobre mim
+
+Estudo Análise e Desenvolvimento de Sistemas no Instituto Federal de Goiás e tenho foco em **desenvolvimento backend com Java e Spring Boot**. Gosto de construir APIs bem estruturadas, com arquitetura em camadas, banco relacional e ambiente containerizado.
+
+## 🎯 Foco atual
+
+- Arquitetura de software e Design Patterns
+- APIs REST com Java e Spring Boot
+- Testes automatizados e boas práticas de código
+
+## 🛠 Tecnologias
+
+**Principais**
+
+![Java](https://skillicons.dev/icons?i=java,spring,postgres,docker,git)
+
+**Já utilizei**
+
+![Outras](https://skillicons.dev/icons?i=php,laravel,python,js,html,css,bootstrap,mongodb,arduino)
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [**Trokr – Sistema de Trocas**](https://github.com/EduardoSerafim-dev/arq_proj_2026) | API REST de plataforma de trocas colaborativas. Implementei [o que VOCÊ fez: CRUD, camadas, Docker, Design Patterns...] | Java 21, Spring Boot, PostgreSQL, MongoDB, Docker |
+| [**Catálogo de Filmes**](https://github.com/EduardoSerafim-dev/ppw-2) | Aplicação full-stack para indexação de filmes, executada em containers. | Laravel, PHP, Nginx, PostgreSQL, Docker |
+| [**API de Cadastro de Usuários**](https://github.com/EduardoSerafim-dev/Cadastro-Usuario) | API REST com operações de cadastro e gerenciamento de usuários. | Java, Spring Boot |
+| [**E-commerce**](https://github.com/EduardoSerafim-dev/meu-ecommerce) | Loja virtual responsiva com front-end puro. | HTML, CSS, JavaScript, Bootstrap |
+
+<details>
+<summary>Outros projetos</summary>
+
+- 🍿 [Sistema de Cinema (CRUD em Java)](https://github.com/EduardoSerafim-dev/Cinema)
+- 🐍 [Sistema de funcionalidades lógicas em Python](https://github.com/EduardoSerafim-dev/Software_Python)
+- 🤖 Projetos com Arduino (em breve no GitHub)
+
+</details>
+
+## 📈 Estatísticas
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSerafim-dev&layout=compact&hide_border=true&langs_count=6" />
+</p>
 
 ---
-## 🛠 Projetos em Destaque
 
-- 📡 [Projeto de API REST e Backend Completo - Sistema de Trocas com Spring Boot, PostgreSQL, MongoDB, Docker e emprego de Design Patterns](https://github.com/EduardoSerafim-dev/arq_proj_2026)  
-- 🎞️ [Projeto Full-Stack Completo - Sistema de indexação de filmes com Laravel, PHP, Nginx e PostgreSQL](https://github.com/EduardoSerafim-dev/ppw-2)
-- 🌐 [API REST com Spring Boot - Cadastro de Usuários](https://github.com/EduardoSerafim-dev/Cadastro-Usuario)  
-- 🛒 [Sistema Web - E-commerce com HTML, CSS, JavaScript e Bootstrap](https://github.com/EduardoSerafim-dev/meu-ecommerce)  
-- 🤖 Projetos com Arduino
-- 🍿[CRUD de Sistema de Cinema com Java](https://github.com/EduardoSerafim-dev/Cinema)
-- 🐍 [Sistema básico de funcionalidades lógicas com Python](https://github.com/EduardoSerafim-dev/Software_Python)
----
-
-## 🛠 Projetos com IA
-
-
-
----
-## 🎯 Objetivo Atual
-
-Aprofundar conhecimentos em:
-- Arquitetura de Software
-- APIs REST
-- Backend com Java
-
----
-
-## 📫 Contato
-
-<div>
-
-  <a href="mailto:eduardo.serafim.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://linkedin.com/in/eduardo-serafim-de-oliveira-3569313b4" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
- <!-- <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a> --> 
-</div>
-
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:1f6feb&height=120&section=footer"/>
+<p align="center"><i>Sempre aprendendo, sempre construindo. 🚀</i></p>
