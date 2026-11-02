@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:1f6feb&height=120&section=header"/>
+
 <h1 align="center">Eduardo Serafim</h1>
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas (IFG) · Backend Java<br>
@@ -52,9 +54,13 @@ Estudo Análise e Desenvolvimento de Sistemas no Instituto Federal de Goiás e t
 ## 📈 Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSerafim-dev&layout=compact&hide_border=true&langs_count=6" />
+  <img src="https://streak-stats.demolab.com/?user=EduardoSerafim-dev&theme=blue-green&locale=pt_BR"/>
 </p>
 
+
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:1f6feb&height=120&section=footer"/>
+
 
 <p align="center"><i>Sempre aprendendo, sempre construindo. 🚀</i></p>
