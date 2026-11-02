@@ -37,7 +37,7 @@ Estudo Análise e Desenvolvimento de Sistemas no Instituto Federal de Goiás e t
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [**Trokr – Sistema de Trocas**](https://github.com/EduardoSerafim-dev/arq_proj_2026) | API REST de plataforma de trocas colaborativas. Implementei [o que VOCÊ fez: CRUD, camadas, Docker, Design Patterns...] | Java 21, Spring Boot, PostgreSQL, MongoDB, Docker |
+| [**Trokr – Sistema de Trocas**](https://github.com/EduardoSerafim-dev/arq_proj_2026) | API REST de plataforma de trocas colaborativas, utilizando arquitetura de camadas e Design Patterns. | Java 21, Spring Boot, PostgreSQL, MongoDB, Docker |
 | [**Catálogo de Filmes**](https://github.com/EduardoSerafim-dev/ppw-2) | Aplicação full-stack para indexação de filmes, executada em containers. | Laravel, PHP, Nginx, PostgreSQL, Docker |
 | [**API de Cadastro de Usuários**](https://github.com/EduardoSerafim-dev/Cadastro-Usuario) | API REST com operações de cadastro e gerenciamento de usuários. | Java, Spring Boot |
 | [**E-commerce**](https://github.com/EduardoSerafim-dev/meu-ecommerce) | Loja virtual responsiva com front-end puro. | HTML, CSS, JavaScript, Bootstrap |
