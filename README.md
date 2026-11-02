@@ -2,7 +2,7 @@
 
 <h1 align="center">Eduardo Serafim</h1>
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas (IFG) · Backend Java<br>
+  Desenvolvedor de Software · Backend Java<br>
   📍 Formosa, GO · 🔎 Buscando oportunidade de estágio em desenvolvimento backend
 </p>
 
